@@ -19,3 +19,5 @@ Transferring: Call the transferToken function from your wallet, indicating the r
 Adding Items: Call the addItem function from your wallet with ownership privileges, providing the item name and cost in DGTs.
 
 Redeeming Items: Call the redeem function from your wallet, specifying the item ID. This will burn the required DGTs from your balance.
+
+[View deployed Contract on snowtrace](https://testnet.snowtrace.io/address/0xa86f3AE371F9D43851374803d8c7D19D4e256BBe)
